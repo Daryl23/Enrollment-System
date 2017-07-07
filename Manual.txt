@@ -1,0 +1,11 @@
+Details from the developer:
+(1) Login:
+UserName: MGanoria
+Password: MAdvent
+
+Please use the login information for test and review only. Thanks.
+
+(2) Errors and Bugs:
+System was developed 2013 - 2014 and live test has not been 
+initialized which has been the reason that system might 
+experience errors and bugs.
